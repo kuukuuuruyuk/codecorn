@@ -23,7 +23,7 @@ export default function Home() {
                 className="h-[90px] w-[90px] mx-auto md:mx-0"
               />
               <div>
-                <h3 className="text-2xl font-bold tracking-light text-center md:text-left text-gray-700">Codecorn Indonesia</h3>
+                <h3 className="text-2xl font-bold tracking-light text-center md:text-left text-gray-700">Codecorn</h3>
                 <p className="text-gray-600">Komunitas pemograman dan IT Gorontalo</p>
               </div>
             </div>
