@@ -34,7 +34,7 @@ export default function Home() {
                     Meetup bulan ini
                   </div>
                 </div>
-                <p>Membangkitkan birahi terhadap pentingnya generasi muda dalam berkarir di dunia ini sebagai sofware engineering yang profesional dan internasional.</p>
+                <p>Membangkitkan birahi terhadap pentingnya generasi muda dalam berkarir di dunia ini sebagai sofware engineering yang profesional.</p>
                 <h3>Kontak:</h3>
                 <ul className="space-y-4">
                   <li className="flex items-center">
